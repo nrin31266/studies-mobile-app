@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nrin31266.myapplication"
+    namespace = "com.nrin31266.birthdaycardapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nrin31266.myapplication"
+        applicationId = "com.nrin31266.birthdaycardapp"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
